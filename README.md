@@ -1,6 +1,6 @@
 # SP_HW2_release
 
-## Spec
+## SPEC
 https://hackmd.io/jyGAaWmmTmKgaHGjGuUNQg?view#6-Report-Question
 
 ## How to exec sample execution
