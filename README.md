@@ -1,7 +1,7 @@
 # SP_HW2_release
 
 ## SPEC
-https://hackmd.io/@UTGhost/H1Nk8CpMi
+[link](https://hackmd.io/@UTGhost/H1Nk8CpMi)
 
 ## How to exec sample execution
 In order to testing your player with TA's battle or testing your battle with TA's player, we provide the compiled executable file for battle.c and player.c.
