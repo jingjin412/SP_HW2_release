@@ -2,7 +2,7 @@
 
 **[SPEC Link](https://hackmd.io/@UTGhost/H1Nk8CpMi)**
 
-**[Video Link](https://youtu.be/mNVUvgWQezA)**
+**[Video Link](https://youtu.be/mNVUvgWQezA?t=0)**
 
 ## How to exec sample execution
 In order to testing your player with TA's battle or testing your battle with TA's player, we provide the compiled executable file for battle.c and player.c.
