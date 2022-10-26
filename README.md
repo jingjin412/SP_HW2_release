@@ -4,6 +4,8 @@
 
 **[Video Link](https://youtu.be/mNVUvgWQezA?t=0)**
 
+**[Discussion Space Link](https://github.com/NTU-SP/SP_HW2_release/discussions)**
+
 ## How to exec sample execution
 In order to testing your player with TA's battle or testing your battle with TA's player, we provide the compiled executable file for battle.c and player.c.
 
