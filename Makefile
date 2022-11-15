@@ -1,4 +1,5 @@
 all:
-	@echo "Please modify Makefile!"
+	gcc player.c -o player
+	gcc battle.c -o battle
 clean:
-	@echo "Please modify Makefile!"
+	rm -f player battle
